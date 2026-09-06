@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    height: 300px;
+    width: 350px;
+    border-radius: 15px;
+
+}
+
+
+
+main{
+    height: 430px;
+    width: 350px;
+    background-color: lightcyan;
+    margin: 1rem;
+    
+}
+
+#root{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
